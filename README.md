@@ -8,7 +8,7 @@
 mkdir build
 cd build
 cmake .. -G "MinGW Makefiles"
-mingw32-make
+mingw64-make
 ```
 5. run example
 ```bash
